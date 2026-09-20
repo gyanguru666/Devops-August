@@ -1,0 +1,1 @@
+selcect * from hr.emplyee
